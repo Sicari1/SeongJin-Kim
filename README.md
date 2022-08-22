@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **NLP, Multi-modal agent model generation**
 
-- 📫 How to reach me **kimsj7597@gmail.com**
+- 📫 How to reach me **kimsj7597@unist.ac.kr**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
