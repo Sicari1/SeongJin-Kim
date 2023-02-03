@@ -9,7 +9,8 @@
 
 <br>
 <br>
-  *2022*
+ 
+*2022*
 - 🔭 **AICP:TEAM MICA**
 - 🌱 **NLP, Multi-modal agent model generation**
 
