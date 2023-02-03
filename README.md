@@ -7,10 +7,8 @@
 
 - 🌱 I’m currently learning **Healthcare, Predicting medical expenseNLP, Multi-modal agent model generation**
 
-
-</p>
-</p>
-</p>
+<br>
+<br>
   *2022*
 - 🔭 **AICP:TEAM MICA**
 - 🌱 **NLP, Multi-modal agent model generation**
