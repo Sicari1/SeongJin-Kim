@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **UNIST FE lab**
 
-- 🌱 I’m currently learning **Healthcare, Predicting medical expenseNLP, Multi-modal agent model generation**
+- 🌱 I’m currently learning **Healthcare, Predicting medical expense**
 
 <br>
 
