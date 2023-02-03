@@ -2,10 +2,13 @@
 <h3 align="center">UNIST IE from Korea</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sicari1&label=Profile%20views&color=0e75b6&style=flat" alt="sicari1" /> </p>
+- 🔭 I’m currently working on **UNIST FE lab**
 
-- 🔭 I’m currently working on **AICP:TEAM MICA**
+- 🌱 I’m currently learning **Healthcare, Predicting medical expenseNLP, Multi-modal agent model generation**
 
-- 🌱 I’m currently learning **NLP, Multi-modal agent model generation**
+*2022*
+- 🔭 **AICP:TEAM MICA**
+- 🌱 **NLP, Multi-modal agent model generation**
 
 - 📫 How to reach me **kimsj7597@unist.ac.kr**
 
