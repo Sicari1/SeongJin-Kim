@@ -13,7 +13,7 @@
 *2022*
 - 🔭 **AICP:TEAM MICA**
 - 🌱 **NLP, Multi-modal agent model generation**
-
+<br>
 - 📫 How to reach me **kimsj7597@unist.ac.kr**
 
 <h3 align="left">Connect with me:</h3>
