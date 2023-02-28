@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **UNIST FE lab**
 
-- 🌱 I’m currently learning **Healthcare, Predicting medical expense**
+- 🌱 I’m currently learning **Healthcare, Predicting medical expense, NLP in Finance based on news data**
 
 <br>
 
