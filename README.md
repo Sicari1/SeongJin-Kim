@@ -3,12 +3,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sicari1&label=Profile%20views&color=0e75b6&style=flat" alt="sicari1" /> </p>
 
-- 🔭 I’m currently working on **UNIST FE lab**
+- 🔭 I’m currently working on **UNIST DA lab**
 
-- 🌱 I’m currently learning **Healthcare, Predicting medical expense, NLP in Finance based on news data**
+- 🌱 I’m currently learning **Neural ODE/SDEs**
 
 <br>
+*2023*
 
+- 🔭 **UNIST FE Lab**
+
+- 🌱 **Healthcare, Predicting medical expense, NLP in Finance based on news data**
 <br>
  
 *2022*
