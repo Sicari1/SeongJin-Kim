@@ -14,7 +14,7 @@
 - 🔭 **UNIST FE Lab**
 
 - 🌱 **Healthcare, Predicting medical expense, NLP in Finance based on news data**
-- 
+  
 <br>
  
 *2022*
