@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **UNIST DA lab**
 
-- 🌱 I’m currently learning **Neural ODE/SDEs**
+- 🌱 I’m currently learning **Neural ODEs & PINNs**
 
 <br>
 
