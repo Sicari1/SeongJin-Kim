@@ -1,32 +1,61 @@
 <h3 align="center">Hi 👋, I'm SeongJin Kim</h3>
-<h3 align="center">UNIST IE from Korea</h3>
+<h4 align="center">Data Scientist · Researcher @ UNIST IE</h4>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sicari1&label=Profile%20views&color=0e75b6&style=flat" alt="sicari1" /> </p>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=sicari1&label=Profile%20views&color=0e75b6&style=flat" alt="sicari1" /> 
+</p>
 
-- 🔭 I’m currently working on **UNIST DA lab**
+---
 
-- 🌱 I’m currently learning **Neural ODEs & PINNs**
+🔍 **Research Interests**  
+- Anomaly Detection on Time-Series Data  
+- Neural ODE / CDE, PINN  
+- Maritime Trajectory Optimization  
+- Retrieval-Augmented Generation (RAG) in Domain-specific LLMs  
+- Educational & Financial AI with Multimodal Systems
 
-<br>
+---
 
-*2023*
+💼 **Current**  
+- M.S. Student, UNIST Data Analytics Lab  
+- Working on maritime route optimization using Neural CDEs and environmental resistance modeling  
+- Building a marine RAG-based chatbot system with LangChain
 
-- 🔭 **UNIST FE Lab**
+📚 **Learning**  
+- Retrieval-Augmented Generation application skills
+- Neural Differential Equations (ODE/CDE/SDE)  
+- Japanese (JLPT N2), Music Theory & Songwriting
 
-- 🌱 **Healthcare, Predicting medical expense, NLP in Finance based on news data**
-  
-<br>
- 
-*2022*
+---
 
-- 🔭 **AICP:TEAM MICA**
+🧠 **Previous Projects**  
+- **LG Electronics (2024)**  
+  → Developed an anomaly detection model for refrigerator quality inspection using multivariate time-series sensor data, integrating domain-knowledge filtering and SSL.  
+- **ICAIF'23 2nd Author**  
+  → *"LLMs Analyzing the Analysts: Do BERT and GPT Extract More Value from Financial Analyst Reports?"*  
+  → Focused on financial NLP using LLMs (data collection, preprocessing, and experiments)  
+- **Healthcare Cost Prediction** (UNIST FE Lab)  
+  → Built predictive models based on health records and insurance claims
 
-- 🌱 **NLP, Multi-modal agent model generation**
+---
 
-<br>
+📫 **Contact Me**  
+kimsj7597@unist.ac.kr
 
-- 📫 How to reach me **kimsj7597@unist.ac.kr**
-
+---
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </p>
+<p align="left">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
+  </a>
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
+  </a>
+  <a href="https://www.langchain.com/" target="_blank" rel="noreferrer">
+    <img src="https://avatars.githubusercontent.com/u/139895137?s=200&v=4" alt="langchain" width="40" height="40"/>
+  </a>
+</p>
