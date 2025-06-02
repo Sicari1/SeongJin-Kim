@@ -9,10 +9,10 @@
 
 🔍 **Research Interests**  
 - Anomaly Detection on Time-Series Data  
-- Neural ODE / CDE, PINN  
+- Neural ODE/CDE/SDE, PINNs  
 - Maritime Trajectory Optimization  
-- Retrieval-Augmented Generation (RAG) in Domain-specific LLMs  
-- Educational & Financial AI with Multimodal Systems
+- Domain-Specific RAG (Retrieval-Augmented Generation)  
+- Multimodal AI for Education & Finance
 
 ---
 
@@ -22,7 +22,7 @@
 - Building a marine RAG-based chatbot system with LangChain
 
 📚 **Learning**  
-- Retrieval-Augmented Generation application skills
+- Retrieval-Augmented Generation application skills  
 - Neural Differential Equations (ODE/CDE/SDE)  
 - Japanese (JLPT N2), Music Theory & Songwriting
 
@@ -33,7 +33,7 @@
   → Developed an anomaly detection model for refrigerator quality inspection using multivariate time-series sensor data, integrating domain-knowledge filtering and SSL.  
 - **ICAIF'23 2nd Author**  
   → *"LLMs Analyzing the Analysts: Do BERT and GPT Extract More Value from Financial Analyst Reports?"*  
-  → Focused on financial NLP using LLMs (data collection, preprocessing, and experiments)  
+  → Led data collection, preprocessing, and LLM-based experiments for financial NLP tasks  
 - **Healthcare Cost Prediction** (UNIST FE Lab)  
   → Built predictive models based on health records and insurance claims
 
