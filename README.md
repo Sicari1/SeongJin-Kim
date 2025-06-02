@@ -34,8 +34,7 @@
 - **ICAIF'23 2nd Author**  
   → *"LLMs Analyzing the Analysts: Do BERT and GPT Extract More Value from Financial Analyst Reports?"*  
   → Led data collection, preprocessing, and LLM-based experiments for financial NLP tasks  
-- **Healthcare Cost Prediction** (UNIST FE Lab)  
-  → Built predictive models based on health records and insurance claims
+
 
 ---
 
