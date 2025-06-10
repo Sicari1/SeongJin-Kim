@@ -24,7 +24,7 @@
 📚 **Learning**  
 - Retrieval-Augmented Generation application skills  
 - Neural Differential Equations (ODE/CDE/SDE)  
-- Japanese (JLPT N2), Music Theory & Songwriting
+- Japanese (JLPT N2)
 
 ---
 
